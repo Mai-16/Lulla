@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lulla-buy",
+    "slug": "lulla-buy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lulla-buy"
+}
